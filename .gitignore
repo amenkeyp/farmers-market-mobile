@@ -1,0 +1,43 @@
+# Misc
+*.log
+*.pyc
+*.swp
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+build/
+
+# Coverage
+coverage/
+
+# Generated files
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
+
+# Android
+android/.gradle/
+android/app/build/
+
+# Obfuscation
+app.*.map.json
+app.*.symbols
+
+# Local config
+.env
